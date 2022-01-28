@@ -1,0 +1,26 @@
+f1 race points visualization over time. 
+http://ergast.com/api/f1/current/last/results
+https://documenter.getpostman.com/view/11586746/SztEa7bL#dfa298c3-bd29-4a40-9ea0-8cbd81653905
+https://ergast.com/mrd/methods/standings/
+maybe every driver ever?
+that would be sick 
+like those over time charts of most popular thing
+
+Per year, top drivers
+
+maybe take input of year? Would be kinda 
+
+
+
+
+
+
+
+NOPE https://www.istockphoto.com/vector/carbon-footprint-infographic-co2-ecological-footprint-scheme-greenhouse-gas-gm1308453603-398432246
+
+20.5
+12.5
+4.5
+-3.5
+-12
+-20
